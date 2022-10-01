@@ -1,3 +1,5 @@
 RENCANA BELAJAR
 
 belajar web 
+belajar framework
+belajar js DOM
